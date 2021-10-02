@@ -1,6 +1,10 @@
+const inquirer = require("inquirer");
+const fs = require("fs");
+
 // TODO: Create an array of questions for user input
 
-const questions = [
+const questions = (input) => [
+    "What is the name of your project?",
     "What was your motivation for the project?",
     "Why did you build this project?",
     "What problem is this project solving?",
