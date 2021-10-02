@@ -1,13 +1,30 @@
-// TODO: Include packages needed for this application
-
 // TODO: Create an array of questions for user input
-const questions = [];
+
+const questions = [
+    "What was your motivation for the project?",
+    "Why did you build this project?",
+    "What problem is this project solving?",
+    "What did you learn?",
+    "What makes your project stand out?",
+    "What challenges did you come across?",
+    "What is the link to the live deployment/ GitHub repository link?"
+];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+
+// Display above questions in the console
+// Wait for user input via the command line
+
+
+function writeToFile(fileName, data) {
+    let fileName = fileName;
+    let 
+};
 
 // TODO: Create a function to initialize app
-function init() {}
+
+function init() {};
 
 // Function call to initialize app
+
 init();
