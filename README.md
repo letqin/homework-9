@@ -3,6 +3,8 @@ This application is used to create README.md files for projects. You will be gui
 
 ![README Generator](/Develop/assets/readmegenerator.png)
 
+[README Generator Demo](/Develop/assets/readme-generator.mp4)
+
   ### Table of Contents
   - [Technologies Used](#tech)
   - [Installation](#installation) 
