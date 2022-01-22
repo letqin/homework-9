@@ -65,7 +65,7 @@ const questions = [
 // // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
   let content = generator(data)
-  writeFile(`./dist/${fileName.trim()}.md`, content, () => console.log(`${fileName.trim()} generated successfully.`))
+  writeFile(`./Develop/${fileName.trim()}.md`, content, () => console.log(`${fileName.trim()} generated successfully.`))
 }
 
 // // TODO: Create a function to initialize app
